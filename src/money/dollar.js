@@ -7,8 +7,8 @@ export default class Dollar {
     this.amount = amount;
   }
 
-  times(multipliter: number) {
-    this.amount *= multipliter;
+  times(multipliter: number): Dollar {
+    return new Dollar(this.amount * multipliter);
   }
 
   amount(): number {
