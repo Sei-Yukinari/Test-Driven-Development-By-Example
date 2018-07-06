@@ -22,6 +22,6 @@ npm run watch
 ```
 
 ## References
-- [tdd-by-example-js](https://facebook.github.io/jest/)
+- [tdd-by-example-js](https://github.com/cm-pliser-tdd-by-example/tdd-by-example-js)
 - [Jest](https://facebook.github.io/jest/)
 - [５分でわかるpower-assert](http://azu.github.io/slide/sakurajs/power-assert.html#/)
