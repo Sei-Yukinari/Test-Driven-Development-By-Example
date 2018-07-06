@@ -73,6 +73,3 @@ typings/
 
 # Serverless directories
 .serverless
-
-#IDE
-.idea/
